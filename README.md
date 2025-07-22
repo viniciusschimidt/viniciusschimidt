@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="400" src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-e6dc-61f4-909f-13602a6b2814/raw?se=2025-07-22T00%3A40%3A08Z&sp=r&sv=2024-08-04&sr=b&scid=d812ed2b-03c3-5a2a-b8ff-1cee36aea1b0&skoid=04233560-0ad7-493e-8bf0-1347c317d021&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-21T23%3A23%3A01Z&ske=2025-07-22T23%3A23%3A01Z&sks=b&skv=2024-08-04&sig=iXqJXtkRewDs/kyWkVnNepXfllNMSDsV0la3uQyFVGw%3D"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
