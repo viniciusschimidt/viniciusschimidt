@@ -3,7 +3,6 @@
 Atualmente estudando Angular, HTML, CSS e JavaScript, com interesse em atuar na área de front-end.  
 Sempre buscando novos desafios e aprendizado constante 🚀</h4>
 
-###
 
 <br clear="both">
 
