@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 <h4 align="center">👋 Olá! Sou o Vinícius Schimidt, estudante de Gestão da Tecnologia da Informação na FATEC - Catanduva, com foco em desenvolvimento web.  
-Atualmente estudando Angular, HTML, CSS e JavaScript, com interesse em atuar na área de front-end.  
+Atualmente estudando Angular, Java, Spring Framework com interesse em atuar na área Full-Stack.  
 Sempre buscando novos desafios e aprendizado constante 🚀</h4>
 
 
